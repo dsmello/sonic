@@ -18,3 +18,8 @@ License:: GNU GPLv3
 Author:: Davi Mello
 
 Feel free to use and improve.
+
+
+---
+
+frontdesk.caparica@trypportugal.com
